@@ -171,3 +171,7 @@ svg {
   background-color: var(--bs-black);
   fill: white;
 }
+
+.global-header {
+  background-color: #000;
+}
